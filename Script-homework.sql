@@ -414,7 +414,7 @@ from film
 where title like '%Truman%'
 
 -- 7. How many payments have an amount greater than 7.99? 
--- Answer: 7.99
+-- Answer: 780
 
 select count(amount)
 from payment
